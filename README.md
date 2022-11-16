@@ -7,7 +7,7 @@ The dataset used for this project is the fer2013 dataset.
 
 ## Dataset
 
-The fer2013 dataset consists of 35,887 grayscale, 48x48 sized images of human faces. The data consists of 7 classes:
+The fer2013 dataset consists of 35,887 grayscale, 48x48 sized images of human faces. The data consists of 5 classes:
 
 *   0=Angry
 *   1=Happy
