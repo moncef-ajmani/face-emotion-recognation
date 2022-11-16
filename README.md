@@ -16,4 +16,4 @@ Run the app.py file.
 
 ## Results
 
-The model gives good results on live video feed as well as images.
+The model gives good results on live video.
