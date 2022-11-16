@@ -3,7 +3,7 @@ import numpy as np
 from keras.models import load_model
 
 
-new_model =load_model('./Final_model1.h5')
+new_model =load_model('./Final_model.h5')
 font_scale = 1.5
 font = cv2.FONT_HERSHEY_PLAIN
 rectangle_bgr = (255, 255, 255)
