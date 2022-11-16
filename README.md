@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this project, I have build a convolutional neural network (CNN) model which can classify the emotions of a person from an image.
+In this project, I have build a convolutional neural network (CNN) model which can classify the emotions of a person from a live video.
 The dataset used for this project is the fer2013 dataset.
 
 ## Dataset
