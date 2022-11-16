@@ -5,6 +5,12 @@
 In this project, I have build a convolutional neural network (CNN) model which can classify the emotions of a person from a live video.
 The dataset used for this project is the fer2013 dataset.
 
+## Requirements
+
+* numpy
+* keras
+* open cv
+
 ## Dataset
 
 The fer2013 dataset consists of 35,887 grayscale, 48x48 sized images of human faces. The data consists of 5 classes:
@@ -28,4 +34,14 @@ The model achieves an accuracy of 64.68% on the public test set and 65.13% on th
 
 ## Usage
 
-To use the model, run the app.py file.
+* Run the following command to install the required libraries:
+
+```
+pip install -r requirements.txt
+```
+
+* Run the app.py file to test the Modal with the following command:
+
+```
+python app.py
+```
